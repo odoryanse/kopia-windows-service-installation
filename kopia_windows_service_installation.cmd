@@ -40,7 +40,7 @@ set nl=^
 
 REM Multiple Lines
 set bar=========================================================================
-set title=Kopia Windows Service Installation v0.9.0 - Oyordanse - VOZ Forum F13!nl!!nl!
+set title=Kopia Windows Service Installation v0.9.0 - Odoryanse - VOZ Forum F13!nl!!nl!
 set print=!title!
 set script_error=0
 
