@@ -1,0 +1,7 @@
+LegacyV3DLL64 RCDATA "legacy-x64.dll"
+SslEAYV3DLL64 RCDATA "libssl-3-x64.dll"
+LibEAYV3DLL64 RCDATA "libcrypto-3-x64.dll"
+LicEAYV3DLL64 RCDATA "LICENSE.txt"
+ReadmeV3DLL64 RCDATA "readme.txt"
+VerstrV3DLL64 RCDATA {"V3.3.1"}
+VernumV3DLL64 RCDATA {"3301"}
