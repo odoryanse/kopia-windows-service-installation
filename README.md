@@ -25,5 +25,5 @@ The script utilizes the following third-party tools, which are included with the
 2. **Run the Installation Script**: Execute the `kopia_windows_service_installation.cmd` file.
 
 ## Notes
-- For best results, place the Kopia folder in the root directory, such as `C:/` or `D:/`.
+- For best results, place the Kopia folder in the root directory, such as `C:/Kopia` or `D:/Kopia`.
 - Ensure that all paths and configurations are correct before running the script.
