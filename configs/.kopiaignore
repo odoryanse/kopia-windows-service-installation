@@ -1,0 +1,8 @@
+*.tmp
+*.temp
+~$*
+*~
+.~*#
+$RECYCLE.BIN
+RECYCLE.BIN
+/System\ Volume\ Information

@@ -1,6 +1,5 @@
 - OpenSSL (Win-64 3.3.1): https://wiki.overbyte.eu/wiki/index.php/ICS_Download#Download_OpenSSL_Binaries
 - Rclone (v1.67.0): https://rclone.org/downloads/
-- Shawl (v1.5.0): https://github.com/mtkennerly/shawl
+- WinSW (x64 v2.12.0): https://github.com/winsw/winsw
 - htpasswd (Apache 2.4.62-240718 Win64): https://www.apachelounge.com/download/
-- PrivMan (v1.0.2): https://github.com/Bill-Stewart/PrivMan
 - ntrights : deprecated, backup only
