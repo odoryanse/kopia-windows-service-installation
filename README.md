@@ -5,6 +5,8 @@ This script is designed to set up the Kopia service on a Windows 10 64-bit syste
 Kopia version used: [v0.16.1](https://github.com/kopia/kopia/releases/tag/v0.16.1)
 (Due to a bug in version v0.17.0 when using VSS in root drive directories [#3482](https://github.com/kopia/kopia/issues/3842))
 
+![v0 9 1](https://github.com/user-attachments/assets/52215d8e-9445-46f5-862a-e65bc4ecd3e9)
+
 ## Script Overview
 
 This script installs the Kopia application as a Windows service with the following features:
